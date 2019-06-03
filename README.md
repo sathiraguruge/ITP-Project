@@ -7,3 +7,13 @@ Technologies Used
 * Java
 * FrameWork - Java - Swing
 * MySQL Database
+
+Members Invloved
+* Sathira Guruge
+* Sahan Jayawardene
+* Sahan Illandara
+* Isuru Gunathileka
+* Manoj Niranthaka
+* Nimali Weerasuriya
+* Naumi Serasinghe
+* Jayani Perera
