@@ -8,7 +8,7 @@ Technologies Used
 * FrameWork - Java - Swing
 * MySQL Database
 
-Members Invloved
+Members Involved
 * Sathira Guruge
 * Sahan Jayawardene
 * Sahan Illandara
